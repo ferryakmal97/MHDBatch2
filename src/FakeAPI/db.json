@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Akmal G ajah",
+      "email": "akmal@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 4,
+      "name": "Karyo",
+      "email": "Karyo@gmail.com"
+    },
+    {
+      "name": "Markus",
+      "email": "markus@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Firhan",
+      "id": 6,
+      "email": "firhan@gmail.com"
+    },
+    {
+      "name": "Kasno",
+      "email": "kasno@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Dio",
+      "email": "dio@gmail.com",
+      "id": 8
+    }
+  ]
+}
